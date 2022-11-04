@@ -24,7 +24,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-## Contributing
+## Contributings
 ---
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
